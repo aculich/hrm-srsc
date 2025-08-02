@@ -3,7 +3,16 @@
 This repository contains the complete setup for running the [Hierarchical Reasoning Model (HRM)](https://github.com/sapientinc/HRM) from Sapient Inc., a novel recurrent architecture for complex reasoning tasks.
 
 > **Paper**: [Hierarchical Reasoning Model](https://arxiv.org/abs/2506.21734) - Wang et al., 2025
+
 > **Extended with ideas from**: [Simulating Time With Square-Root Space](https://arxiv.org/abs/2502.17779v1) - R. Ryan Williams, 2025
+
+With insights form the latter paper beautifull explained by:
+Chalk Talk with: **Astonishing discovery by computer scientist: how to squeeze space into time** in this video:
+https://www.youtube.com/watch?v=8JuWdXrCmWg
+
+
+And an illustration with an implementation of the Pebble Game:
+https://chalk-talk-math.github.io/pebble-game/
 
 ## Summary: Connecting HRM with Square-Root Space Complexity
 

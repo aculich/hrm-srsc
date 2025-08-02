@@ -1,4 +1,4 @@
-# Hierarchical Reasoning Model (HRM) - Installation & Setup Guide
+# Extending Hierarchical Reasoning Model (HRM) with Square-Root Space Complexity Optimization
 
 This repository contains the complete setup for running the [Hierarchical Reasoning Model (HRM)](https://github.com/sapientinc/HRM) from Sapient Inc., a novel recurrent architecture for complex reasoning tasks.
 
